@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm <a href="https://kanvis.me/rayyan-rafique">Rayyan Rafique</a></h1>
-  <p><strong>Full-Stack Developer & AI Architect</strong> · Co-founder <a href="https://locknkey.online">Lock N Key</a> · <a href="#">Founder, SnapShots by Rayyan</a></p>
+  <p><strong>Full-Stack Developer & AI Architect</strong> · Co-founder <a href="https://locknkey.online">Lock N Key</a> · Founder, SnapShots by Rayyan</p>
   <p>Karachi, Pakistan 🇵🇰</p>
 
   <p>
